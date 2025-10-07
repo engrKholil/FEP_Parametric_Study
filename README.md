@@ -105,7 +105,7 @@ Once accepted and indexed, the publication DOI and full citation will be updated
 This repository will be archived on **Zenodo** for citation and permanent DOI assignment.
 
 **DOI (to be updated after Zenodo upload):**  
-[https://doi.org/10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx)
+[https://doi.org/10.5281/zenodo.17287148](https://doi.org/10.5281/zenodo.17287148)
 
 If you use this repository, please cite as:
 
@@ -115,8 +115,8 @@ If you use this repository, please cite as:
   title        = {Flush End-Plate Beam-to-Column Joints – Parametric Study under Seismic and Fire Loading},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxxx}
+  doi          = {10.5281/zenodo.17287148},
+  url          = {https://doi.org/10.5281/zenodo.17287148}
 }
 ```
 
